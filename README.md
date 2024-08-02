@@ -1,4 +1,4 @@
-Hi I'm Mohamed Nawfal 🧑‍💻<br>
+Hi there,I'm Mohamed Nawfal 🧑‍💻<br>
 <hr>
 🌱 I’m currently learning Full Stack web-development<br>
 📚 Hindusthan College of Engineering & Technology at Coimbatore<br>
